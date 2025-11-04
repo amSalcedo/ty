@@ -13,7 +13,7 @@ An extremely fast Python type checker and language server, written in Rust.
 > We're working hard to make ty stable and feature-complete, but until then, expect to encounter bugs,
 > missing features, and fatal errors.
 
-## Getting started
+## Getting started 88
 
 Try out the [online playground](https://play.ty.dev), or run ty with
 [uvx](https://docs.astral.sh/uv/guides/tools/#running-tools) to get started quickly:
